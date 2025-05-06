@@ -1,0 +1,12 @@
+
+python-dotenv
+openai
+pandas
+transformers
+torch
+tensorflow
+tf-keras
+tiktoken
+sentencepiece
+matplotlib
+seaborn
