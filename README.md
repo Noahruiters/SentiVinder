@@ -27,7 +27,7 @@ Een Python-script dat bias in nederlandse taalmodellen onderzoekt door sentiment
 3. Maak een `.env` bestand aan en zet je API key erin:
 
    ```bash
-   API_KEY=...
+   OPENAI_API_KEY=...
    ```
 
 ## Gebruik
